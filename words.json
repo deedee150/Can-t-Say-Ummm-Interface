@@ -1,0 +1,10 @@
+{
+  "adjectives": [
+    "brave","ancient","mysterious","colorful","silent","fierce","glowing","rapid","gentle","wild"
+    // … add 2000+ adjectives
+  ],
+  "nouns": [
+    "cat","mountain","ocean","robot","forest","wizard","castle","planet","storm","dragon"
+    // … add 2000+ nouns
+  ]
+}
